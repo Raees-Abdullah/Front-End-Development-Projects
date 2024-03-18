@@ -1,5 +1,5 @@
 # Front-End-Development-Projects
-I have made these front end projects from the concepts that I have learned and some creativity.
+I have made these front end development projects with some creativity and the concepts that I have learned. Front End is just like a hobby for me.
 
 Please make sure to must download the boostrap rar file as well and extract it at the same location where you extract any of the other project. Altought all projects are not made with boostrap but it is recommended to download it as well. 
 
